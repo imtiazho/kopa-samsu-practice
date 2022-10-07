@@ -9,3 +9,4 @@ gun data link : https://raw.githubusercontent.com/mir-hussain/guns/main/data.jso
 2. Create a repository
 
 3. Then follow the normal process of adding a new project to repository. 
+"# kopa-samsu-practice" 
